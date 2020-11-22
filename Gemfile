@@ -37,6 +37,8 @@ gem 'rails-i18n', '~> 6.0.0'
 # Pagination
 gem 'kaminari', '~> 1.2.1'
 
+# SearchForm
+gem 'ransack', '~> 2.3.2'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
