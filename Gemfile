@@ -40,7 +40,7 @@ gem 'kaminari', '~> 1.2.1'
 # SearchForm
 gem 'ransack', '~> 2.4.2'
 
-gem "nokogiri", "~> 1.11.1"
+gem "nokogiri", "~> 1.11.4"
 
 # Patch actionpack
 gem "actionpack", ">= 6.1.3.2"
